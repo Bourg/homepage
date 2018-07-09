@@ -1,0 +1,22 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "description": "My own personal site for learning frontend and sharing whatever I want to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bourg/homepage.git"
+  },
+  "author": "Austin Bourgerie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bourg/homepage/issues"
+  },
+  "homepage": "https://github.com/Bourg/homepage#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
